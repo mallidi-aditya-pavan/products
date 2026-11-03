@@ -1,0 +1,1 @@
+Place product image files in this folder if you want to use locally hosted images. Update each product's `image` value in `script.js` to a relative path such as `images/headphones.jpg`. The starter catalog uses hosted Unsplash images.
